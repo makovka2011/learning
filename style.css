@@ -1,0 +1,22 @@
+* {
+    position: relative;
+    padding: 25px 25px 20px;
+    margin: 0;
+    border-radius: 4px;
+}
+body {
+    border: 2px  #7fc1ff;
+}
+header {
+    background-color: #f3faff;
+    border: 2px solid #7fc1ff;
+}
+
+main {
+    background-color: #f3faff;
+    border: 2px solid #7fc1ff;
+}
+footer {
+    background-color: #f3faff;
+    border: 2px solid #7fc1ff;
+}
